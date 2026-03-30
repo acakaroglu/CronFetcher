@@ -1,0 +1,17 @@
+# Configuration (contains environment-specific secrets)
+cronfetcher.conf
+
+# Temp files
+/tmp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
